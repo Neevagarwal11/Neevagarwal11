@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **agarwalneev2005@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/neeva/Downloads/Resume.pdf](file:///C:/Users/neeva/Downloads/Resume.pdf)
+- 📄 Know about my experiences **https://neevagarwal.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
